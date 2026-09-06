@@ -139,15 +139,6 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-### Android / PyDroid
-
-Install Python through your Android Python environment, then copy or clone the project.
-
-```bash
-python -m pip install -r requirements.txt
-python main.py
-```
-
 The converter logic is standard Python. Terminal-specific visual effects can vary depending on the Android terminal environment.
 
 ## Usage
